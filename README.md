@@ -11,7 +11,7 @@ Support is always handy support@lmis.gov.pk
 
 # Data Reporting through Mobile USSD technologies Module
 The goal of this module is to help in improving monthly data reporting in electronic Logistics Management Information System through identified USSD technology as best available communication and data reporting technique in current scenario of areas where terrain and telecom sector data infrastructure is not ready to provide internet to every person. The module is developed as USSD client application which is relaying logistics indicators from service delivery points directly through telecom infrastructure in to LMIS.  <br>
-<img src='' width='300'>
+<img src='https://github.com/pakistanlmis/ussd-reporting/blob/master/ussd_server/ussd.png' width='400'>
 
 # Configuration details
 
